@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.airmouse.client.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.airmouse.client.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.airmouse.client.app-debug-32:/drawable_status_dot_connected.xml.flat",
+        "source": "com.airmouse.client.app-main-34:/drawable/status_dot_connected.xml"
+    },
+    {
+        "merged": "com.airmouse.client.app-debug-32:/drawable_status_dot_disconnected.xml.flat",
+        "source": "com.airmouse.client.app-main-34:/drawable/status_dot_disconnected.xml"
+    },
+    {
+        "merged": "com.airmouse.client.app-debug-32:/drawable_input_bg.xml.flat",
+        "source": "com.airmouse.client.app-main-34:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.airmouse.client.app-debug-32:/drawable_status_dot_connecting.xml.flat",
+        "source": "com.airmouse.client.app-main-34:/drawable/status_dot_connecting.xml"
+    }
+]
