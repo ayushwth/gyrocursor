@@ -11,7 +11,7 @@ No APK install needed. Your phone just opens a URL in Chrome.
 ### 1. Install Python dependencies (laptop)
 
 ```powershell
-cd "GyroCursor"
+cd "AirMouse"
 pip install -r requirements.txt
 ```
 
