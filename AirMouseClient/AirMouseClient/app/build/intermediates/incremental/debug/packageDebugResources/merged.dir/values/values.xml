@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#00B4D8</color>
+    <color name="accent_green">#39FF14</color>
+    <color name="accent_orange">#FF6B35</color>
+    <color name="bg_dark">#0D0F14</color>
+    <color name="card_bg">#161B22</color>
+    <color name="card_bg_2">#1E2430</color>
+    <color name="status_connected">#39FF14</color>
+    <color name="status_connecting">#FF6B35</color>
+    <color name="status_disconnected">#5A6072</color>
+    <color name="text_muted">#5A6072</color>
+    <color name="text_primary">#E8EAF0</color>
+    <string name="app_name">AirMouse</string>
+    <style name="Theme.AirMouseClient" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/card_bg</item>
+        <item name="colorOnPrimary">@color/bg_dark</item>
+        <item name="colorSecondary">@color/accent_blue</item>
+        <item name="colorOnSecondary">@color/bg_dark</item>
+        <item name="android:colorBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

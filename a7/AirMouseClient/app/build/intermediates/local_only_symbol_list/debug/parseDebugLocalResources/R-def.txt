@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color accent_blue
+color accent_green
+color accent_orange
+color bg_dark
+color card_bg
+color card_bg_2
+color status_connected
+color status_connecting
+color status_disconnected
+color text_muted
+color text_primary
+drawable input_bg
+drawable status_dot_connected
+drawable status_dot_connecting
+drawable status_dot_disconnected
+id btnCalibrate
+id btnConnect
+id btnLeftClick
+id btnRightClick
+id etIpAddress
+id etPort
+id seekSendRate
+id seekSensitivity
+id statusDot
+id tvAlpha
+id tvBeta
+id tvGamma
+id tvLatency
+id tvPacketCount
+id tvSendRate
+id tvSensitivity
+id tvStatus
+layout activity_main
+string app_name
+style Theme.AirMouseClient
